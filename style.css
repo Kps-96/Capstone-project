@@ -1,0 +1,64 @@
+*{
+    font-family: cursive,sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 70px;
+}
+
+.main{
+    display: flex;
+    overflow-x:auto;
+}
+
+#one{
+    width: 450px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.two{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 900px;
+    line-height: 40px;
+    display: block;
+}
+
+.three{
+    width: 400px;
+    height:63vh;
+    padding-left: 40px;
+}
+
+.four{
+    width: 900px;
+}
+
+.four div{
+    margin-left:30px ;
+}
+
+ul{
+    padding-left: 40px;
+    padding-top: 8px;
+}
+
+h5{
+    padding-left: 40px;
+    padding-top: 8px;
+}
+
+.three ol{
+    padding-left: 40px;
+    line-height: 30px;
+}
+
+h1,.para{
+    padding-top:5px ;
+}
